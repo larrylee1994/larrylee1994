@@ -4,7 +4,8 @@
 
 ## I'm a Developer, and learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently in school for Computer Science 🤣
+- 🌱 Working on projects to expand my capabilities
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
