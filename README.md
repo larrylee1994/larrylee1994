@@ -4,7 +4,7 @@
 
 ## I'm a Developer, and learner.
 
-- 🌱 I’m currently in school for Computer Science
+- 🌱 I’m currently in school working on my Bachelors in Computer Science
 - 🌱 Working on projects to expand my capabilities
 - 🥅 2022 Goals: Start my professional experience with an internship
 
